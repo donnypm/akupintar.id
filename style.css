@@ -91,13 +91,6 @@ header ul {
   background-color: white;
 }
 
-/* .menu-items li:hover .mega-menu,
-.menu-items li:focus .mega-menu {
-  top: 70px;
-  opacity: 1;
-  visibility: visible;
-} */
-
 .btn-layanan {
   background: #fff;
   text-decoration: none;
@@ -135,6 +128,11 @@ header ul {
   font-weight: 400;
   height: 60px;
   text-decoration: none;
+}
+
+.btn-login:hover {
+  background: #0070ba;
+  color: #fff;
 }
 
 /* Content Website */
