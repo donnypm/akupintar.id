@@ -1,0 +1,36 @@
+<svg width="1488" height="214" viewBox="0 0 1488 214" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient cx="-13.82%" cy="122.694%" fx="-13.82%" fy="122.694%" r="144.851%" id="16tvnajtfc">
+            <stop stop-color="#067BC8" offset="0%"/>
+            <stop stop-color="#2457A6" offset="100%"/>
+        </radialGradient>
+        <path id="8a6jai8sxa" d="M0 0h1488v214H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="0w64rfnqxb" fill="#fff">
+            <use xlink:href="#8a6jai8sxa"/>
+        </mask>
+        <use fill="#0070BA" xlink:href="#8a6jai8sxa"/>
+        <ellipse stroke="#FAAF36" stroke-width="5" opacity=".3" mask="url(#0w64rfnqxb)" cx="34" cy="46.5" rx="10" ry="9.5"/>
+        <path d="M5.789 244c-27.52-42.906 43.786-69.512 213.918-79.817 255.2-15.458 492.337 4.686 581.592-37.566 89.255-42.251 180.884-70.158 277.39-75.731 96.507-5.574 267.662-6.714 354.87 7.254 58.138 9.312 69.747 71.265 34.825 185.86H5.79z" fill="#D8D8D8" opacity=".097" mask="url(#0w64rfnqxb)"/>
+        <g opacity=".202" mask="url(#0w64rfnqxb)" fill="url(#16tvnajtfc)">
+            <g transform="translate(1356 -202)">
+                <circle transform="rotate(90 5 272)" cx="5" cy="272" r="5"/>
+                <circle transform="rotate(90 5 242)" cx="5" cy="242" r="5"/>
+                <circle transform="rotate(90 5 212)" cx="5" cy="212" r="5"/>
+                <circle transform="rotate(90 35 272)" cx="35" cy="272" r="5"/>
+                <circle transform="rotate(90 35 242)" cx="35" cy="242" r="5"/>
+                <circle transform="rotate(90 35 212)" cx="35" cy="212" r="5"/>
+                <circle transform="rotate(90 65 272)" cx="65" cy="272" r="5"/>
+                <circle transform="rotate(90 65 242)" cx="65" cy="242" r="5"/>
+                <circle transform="rotate(90 65 212)" cx="65" cy="212" r="5"/>
+                <circle transform="rotate(90 95 272)" cx="95" cy="272" r="5"/>
+                <circle transform="rotate(90 95 242)" cx="95" cy="242" r="5"/>
+                <circle transform="rotate(90 95 212)" cx="95" cy="212" r="5"/>
+                <circle transform="rotate(90 125 272)" cx="125" cy="272" r="5"/>
+                <circle transform="rotate(90 125 242)" cx="125" cy="242" r="5"/>
+                <circle transform="rotate(90 125 212)" cx="125" cy="212" r="5"/>
+            </g>
+        </g>
+    </g>
+</svg>
